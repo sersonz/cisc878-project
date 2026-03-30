@@ -1,0 +1,1 @@
+To run the code, enter ```python main.py``` in your terminal and follow the instructions. You will need a working Circom installation, which can be obtained [here](https://docs.circom.io/getting-started/installation/).
